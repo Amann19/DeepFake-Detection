@@ -1,0 +1,17 @@
+# Ignore Python cache and virtual envs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+# Ignore uploaded videos
+DeepFake_Detection/Uploaded_Files/
+# Ignore model weights if they are large (>100MB)
+DeepFake_Detection/model/*.pt
+# Ignore system or IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
