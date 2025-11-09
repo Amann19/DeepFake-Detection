@@ -2,7 +2,7 @@
 DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and ReactJs where you can predict whether a video is FAKE Or REAL along with the confidence ratio. 
 
 ## Explanation of the Project
-- We've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the  trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
+- I've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
 
 - The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
 
