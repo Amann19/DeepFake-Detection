@@ -2,13 +2,13 @@
 DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and ReactJs where you can predict whether a video is FAKE Or REAL along with the confidence ratio. 
 
 ## Explanation of the Project
-- We've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the  trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
+- I've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
 
-- The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
+- The Dataset I've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
 
-- To find our trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
+- To find my trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
 
-- To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
+- To train my model I've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
   Thanks to them!
 
 - To understand the project in a better way it is structured in below format:
@@ -24,7 +24,7 @@ DeepFake-Detection
 
 2. Implementation Video - It shows the whole working of the project. 
 
-3. Project-Setup.txt - In this file we've written all the necessary steps to run this project.
+3. Project-Setup.txt - In this file I've written all the necessary steps to run this project.
 
 4. Requirements.txt - Python libraries needed for this project. 
 
@@ -38,7 +38,7 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 
 <b>Add these folders to the root folder(DeepFake_Detection). Since, the path has already been given to the "server.py" file and also to avoid any path related errors.</b>
 
-## Our Results
+## Results
 
 1) Accuracy of the Model:
 <img width="250" height="50" alt="Model Accuracy" src="https://user-images.githubusercontent.com/58872872/133935912-1def7615-6538-4c88-9134-8f94a9367965.png">
@@ -54,7 +54,3 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 
 - To see the working of the project, follow this [link](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Implementation%20Video.mp4).
 
-## Developers
-1. [Juhie Motiani](https://github.com/JuhieMotiani)
-2. [Dhruti Patel](https://github.com/iamdhrutipatel)
-3. [Anjali Patel](https://github.com/anjali-patel21)
